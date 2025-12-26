@@ -42,7 +42,7 @@ def creating_plot(d_times, d_dB, theta):
     axs[1,1].set_title("КНД (дБ, поляр)")
 
     plt.tight_layout(rect=[0, 0, 1, 0.96])
-    plt.savefig('var11.png')
+    plt.savefig('var13.png')
     plt.show()
 
 

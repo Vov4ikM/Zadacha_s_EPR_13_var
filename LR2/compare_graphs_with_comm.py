@@ -71,7 +71,7 @@ def creating_plot(cst: list, python: list) -> None: #Аннотация типо
     ax4.legend()
 
     plt.tight_layout(rect=[0, 0, 1, 0.96])
-    plt.savefig("var11_comparing.png")
+    plt.savefig("var13_comparing.png")
     plt.show()
 
 
